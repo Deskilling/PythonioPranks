@@ -1,2 +1,2 @@
-# PythonioPranks
-Hallo! Kuhle sachen in Pythonio
+# Schlechte Verschlüsselung
+Eine schlecte Verschlüsselung in Python
